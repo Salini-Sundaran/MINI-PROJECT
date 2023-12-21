@@ -1,0 +1,44 @@
+* Allotment
+-------------------
+- application
+- location verification
+- allotment list creation
+- allotment publishment
+- admin registration
+- document verification 
+
+*Admission
+-------------------
+- Allotment list accept / reject
+- Payment
+- Student registration
+- Election
+- Rules and regulations
+- Complaints
+- General body meeting schedule
+- Room allocation
+- Emergency services
+- Complaints
+- admission analytics 
+- Contacts
+
+*Attendance
+---------------------
+- daily attendance
+- daily atttendance report
+- monthly attendance report
+- home register
+- Return register
+- movement register
+- fine generation
+- hostel secretary registration
+
+* Mess Management
+----------------------
+
+- Food Menu Generation
+- Mess Bill Calculation(Mess cut, Mess Bill fine)
+- Expenditure
+- Mess Duty
+- Complaints
+- Stock Verification
